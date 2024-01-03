@@ -1,7 +1,7 @@
 ### Hi there, I'm Wes 👋
 
 - ⚡ I create workflows and data pipelines primarily with Python and SQL
-- 🌱 I’m currently doing leetcode problems to deepen my knowledge of programming concepts and become a better problem solver
+- 🌱 I’m currently doing [exercism problems](https://exercism.org/profiles/waspinall) to deepen my knowledge of programming concepts and become a better problem solver
 -  📫 How to reach me: [LinkedIn](https://linkedin.com/in/WesAspinall)
 <!--
 **WesAspinall/WesAspinall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
