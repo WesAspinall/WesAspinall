@@ -1,6 +1,5 @@
 ### Hi there, I'm Wes 👋
 
-- ⚡ I create workflows and data pipelines primarily with Python and SQL
 -  📫 How to reach me: [LinkedIn](https://linkedin.com/in/WesAspinall)
 <!--
 **WesAspinall/WesAspinall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
