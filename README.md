@@ -1,8 +1,4 @@
-### Hi there, I'm Wes 👋
-
-Sr Data Engineer @ The Home Depot
-
--  📫 How to reach me: [LinkedIn](https://linkedin.com/in/WesAspinall)
+How to reach me: [LinkedIn](https://linkedin.com/in/WesAspinall)
 <!--
 **WesAspinall/WesAspinall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
